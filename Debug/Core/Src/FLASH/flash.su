@@ -1,0 +1,8 @@
+../Core/Src/FLASH/flash.c:12:16:flash_compare	16	static
+../Core/Src/FLASH/flash.c:20:6:flash_init_address	16	static
+../Core/Src/FLASH/flash.c:30:6:flash_read	16	static
+../Core/Src/FLASH/flash.c:38:6:flash_update	24	static
+../Core/Src/FLASH/flash.c:67:9:flash_erase	32	static
+../Core/Src/FLASH/flash.c:83:9:Flash_ReadByte	24	static
+../Core/Src/FLASH/flash.c:90:10:Flash_ReadWord	24	static
+../Core/Src/FLASH/flash.c:97:10:Flash_ReadDWord	24	static

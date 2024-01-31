@@ -1,0 +1,10 @@
+timer.c:17:15:timer_gettime	0	static
+timer.c:29:6:timer_periodic_poll	0	static
+timer.c:45:1:timer_set	0	static
+timer.c:67:1:timer_reset	0	static
+timer.c:87:1:timer_restart	0	static
+timer.c:104:1:timer_expired	0	static
+timer.c:117:6:timer_stop	0	static
+timer.c:123:1:timer_tick	0	static
+timer.c:129:6:timer_pause	0	static
+timer.c:136:6:timer_continue	0	static

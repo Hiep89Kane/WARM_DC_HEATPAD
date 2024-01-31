@@ -1,0 +1,2 @@
+../Core/Src/INTERRUPT/interrupt.c:10:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/INTERRUPT/interrupt.c:21:6:HAL_SYSTICK_Callback	8	static
